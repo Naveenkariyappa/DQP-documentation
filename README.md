@@ -23,5 +23,5 @@
 - [Frequently asked Questions](#awesome-php-security)
 - [More..](#awesome-reversing)
 
-#### [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
+#### [Getting Started](https://github.com/paragonie/awesome-appsec)
 A curated list of resources for learning about application security
