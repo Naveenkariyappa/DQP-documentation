@@ -24,7 +24,7 @@
 - [More..](#More)
 
 
-<a name="Getting-Started"/>
+
 #### Getting Started
 
 <a name="Create-user"/>
