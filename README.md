@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-- [Getting Started](#Getting-Started)
+- [Getting Started](#getting-Started)
 - [Create user](#awesome-bug-bounty)
 - [Create Company](#awesome-ctf)
 - [Manage Company](#awesome-devsecops)
@@ -23,5 +23,5 @@
 - [Frequently asked Questions](#awesome-php-security)
 - [More..](#awesome-reversing)
 
-#### [Getting Started](https://github.com/paragonie/awesome-appsec)
+#### [Getting Started](https://github.com/Naveenkariyappa/DQP-documentation/getting-Started)
 A curated list of resources for learning about application security
