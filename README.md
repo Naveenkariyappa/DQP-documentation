@@ -1,57 +1,33 @@
 # Do Quick Poll -documentation
 **A Place Where you can conduct polls and do analysis on the go with no efforts.**
 
+**This is just the begining we have a long way to go, hey don't worry we have got it all covered here**
+
 ## Table of Contents
 
-**Awesome Repositories:**
+- [Getting Started](#Getting-Started)
+- [Create user](#awesome-bug-bounty)
+- [Create Company](#awesome-ctf)
+- [Manage Company](#awesome-devsecops)
+- [Create Polls](#awesome-exploit-development)
+- [Create Questions](#awesome-fuzzing)
+- [Launch Polls](#awesome-hacking-one)
+- [Launch Questions](#awesome-honeypots)
+- [Invite Poll Participants](#awesome-incident-response)
+- [Analyse Results](#awesome-infosec)
+- [Delete polls](#awesome-iot-hacks)
+- [Delete Questions](#awesome-malware-analysis)
+- [Delete companiy](#awesome-pcaptools)
+- [View conducted polls](#awesome-pentest)
+- [Frequently asked Questions](#awesome-php-security)
+- [More..](#awesome-reversing)
 
-- [Awesome AppSec](#awesome-appsec)
-- [Awesome Bug Bounty](#awesome-bug-bounty)
-- [Awesome CTF](#awesome-ctf)
-- [Awesome DevSecOps](#awesome-devsecops)
-- [Awesome Exploit Development](#awesome-exploit-development)
-- [Awesome Fuzzing](#awesome-fuzzing)
-- [Awesome Hacking One](#awesome-hacking-one)
-- [Awesome Honeypots](#awesome-honeypots)
-- [Awesome Incident Response](#awesome-incident-response)
-- [Awesome InfoSec](#awesome-infosec)
-- [Awesome IoT Hacks](#awesome-iot-hacks)
-- [Awesome Malware Analysis](#awesome-malware-analysis)
-- [Awesome Pcaptools](#awesome-pcaptools)
-- [Awesome Pentest](#awesome-pentest)
-- [Awesome PHP Security](#awesome-php-security)
-- [Awesome Reversing](#awesome-reversing)
-- [Awesome Sec Talks](#awesome-sec-talks)
-- [Awesome SecLists](#awesome-seclists)
-- [Awesome Security](#awesome-security)
-- [Awesome Static Analysis](#awesome-static-analysis)
-- [Awesome Threat Intelligence](#awesome-threat-intelligence)
-- [Awesome Vehicle Security](#awesome-vehicle-security)
-- [Awesome Web Hacking](#awesome-web-hacking)
-- [Awesome Windows Exploitation](#awesome-windows-exploitation)
-- [Awesome WiFi Arsenal](#awesome-wifi-arsenal)
-- [Awesome Android Security](#awesome-android-security)
-- [Awesome OSX and iOS Security](#awesome-osx-and-ios-security)
-
-**Other Useful Repositories:**
-
-- [APT Notes](#apt-notes)
-- [Awesome Shell](#awesome-shell)
-- [Bug Bounty Reference](#bug-bounty-reference)
-- [CTF Tool](#ctf-tool)
-- [Free Programming Books](#free-programming-books)
-- [Gray Hacker Resources](#gray-hacker-resources)
-- [Infosec Reference](#infosec-reference)
-- [Malware Scripts](#malware-scripts)
-- [Pentest Wiki](#pentest-wiki)
-- [Resource List](#resource-list)
-- [Security Cheatsheets](#security-cheatsheets)
 
 ---
 
 ### Awesome Repositories
 
-#### [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
+#### [Getting-Started](https://github.com/paragonie/awesome-appsec)
 A curated list of resources for learning about application security
 
 #### [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
