@@ -35,6 +35,7 @@ and so much more
 
 <a name="Create-user"/>
 #### Create user
+Creating a user and being a part of a company is a mangatory step to conduct polls or quiz, This can be done by clicking a Login button on top right corner of your page. once after clicking if you have already have a account registered, you can enter credentials and login. If you are a new user you can click register on the screen and fill the simple form consisting of your username, Email ID, Password, preferred Email, Mobile number, your name to be addressed and if you are available to comtact select 'Yes' else select 'No' and finally click on register.
 
 <a name="Create-Company"/>
 #### Create Company
