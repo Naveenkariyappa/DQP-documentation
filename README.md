@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-- [Getting Started](#Getting-Started)
+- [Getting Started](#awesome-appsec)
 - [Create user](#awesome-bug-bounty)
 - [Create Company](#awesome-ctf)
 - [Manage Company](#awesome-devsecops)
@@ -28,7 +28,7 @@
 
 ### Discriptions 
 
-#### [Getting Started]((https://github.com/DQP-documentation/Getting-Started))
+#### [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
 A curated list of resources for learning about application security
 
 #### [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
