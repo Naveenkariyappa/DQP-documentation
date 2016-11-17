@@ -28,7 +28,7 @@
 
 ### Discriptions 
 
-#### [Getting-Started](https://github.com/paragonie/awesome-appsec)
+#### [Getting-Started](https://github.com/Naveenkariyappa/DQP-documentation/Getting-Started)
 A curated list of resources for learning about application security
 
 #### [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
