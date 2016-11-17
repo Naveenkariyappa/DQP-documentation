@@ -26,6 +26,12 @@
 
 <a name="Getting-Started"/>
 #### Getting Started
+This is the guide for using Doquickpoll application for Conducting Quiz, Surveys which can be static and dynamic, Polls, Questionaire
+You can create a Poll, survey, questionaire, test or a quiz.
+Add questions to the created artifact.
+These questions can have different types of answer sets in terms of multiple choice, binary or a free flow text.
+The admins of the poll can conduct the polling and survey. 
+and so much more
 
 <a name="Create-user"/>
 #### Create user
