@@ -23,5 +23,5 @@
 - [Frequently asked Questions](#awesome-php-security)
 - [More..](#awesome-reversing)
 
-#### [Getting Started](https://github.com/Naveenkariyappa/DQP-documentation/README.md)
+#### [Getting Started](getting-Started)
 A curated list of resources for learning about application security
