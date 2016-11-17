@@ -45,6 +45,7 @@ Being a part of a company is mandaory if you want to conduct polls or quiz, This
 
 <a name="Manage-Company"/>
 #### Manage Company
+Manage Company gives you the levereage to manage your company, see the details, edit Details, see list of users add a new user to the company, add a new admin to the company or remove the user. To Edit company details all you need to do is click on the pencil icon on the top right corneer of the company detail template and you will be redirected to a form where you can edit the company details and click on update to commit changes about the company. 
 
 <a name="Create-Polls"/>
 #### Create Polls
