@@ -6,23 +6,68 @@
 
 ## Table of Contents
 
-- [Getting Started](#getting-Started)
-- [Create user](#awesome-bug-bounty)
-- [Create Company](#awesome-ctf)
-- [Manage Company](#awesome-devsecops)
-- [Create Polls](#awesome-exploit-development)
-- [Create Questions](#awesome-fuzzing)
-- [Launch Polls](#awesome-hacking-one)
-- [Launch Questions](#awesome-honeypots)
-- [Invite Poll Participants](#awesome-incident-response)
-- [Analyse Results](#awesome-infosec)
-- [Delete polls](#awesome-iot-hacks)
-- [Delete Questions](#awesome-malware-analysis)
-- [Delete companiy](#awesome-pcaptools)
-- [View conducted polls](#awesome-pentest)
-- [Frequently asked Questions](#awesome-php-security)
-- [More..](#awesome-reversing)
+- [Getting Started](#Getting-Started)
+- [Create user](#Create-user)
+- [Create Company](#Create-Company)
+- [Manage Company](#Manage-Company)
+- [Create Polls](#Create-Polls)
+- [Create Questions](#Create-Questions)
+- [Launch Polls](#Launch-Polls)
+- [Launch Questions](#Launch-Questions)
+- [Invite Poll Participants](#Invite-Poll-Participants)
+- [Analyse Results](#Analyse-Results)
+- [Delete polls](#Delete-polls)
+- [Delete Questions](#Delete-Questions)
+- [Delete companiy](#Delete-companiy)
+- [View conducted polls](#View-conducted-polls)
+- [Frequently asked Questions](#Frequently-asked-Questions)
+- [More..](#More)
 
 
-<a name="getting-Started"/>
+<a name="Getting-Started"/>
 #### Getting Started
+
+<a name="Create-user"/>
+#### Create user
+
+<a name="Create-Company"/>
+#### Create Company
+
+<a name="Manage-Company"/>
+#### Manage Company
+
+<a name="Create-Polls"/>
+#### Create Polls
+
+<a name="Create-Questions"/>
+#### Create Questions
+
+<a name="Launch-Polls"/>
+#### Launch Polls
+
+<a name="Launch Questions"/>
+#### Launch Questions
+
+<a name="Invite-Poll-Participants"/>
+#### Invite Poll Participants
+
+<a name="Analyse-Results"/>
+#### Analyse Results
+
+<a name="Delete-polls"/>
+#### Delete polls
+
+<a name="Delete-Questions"/>
+#### Delete Questions
+
+<a name="Delete-companiy"/>
+#### Delete companiy
+
+<a name="View-conducted-polls"/>
+#### View conducted polls
+
+<a name="Frequently-asked-Questions"/>
+#### Frequently asked Questions
+
+<a name="More"/>
+#### More..
