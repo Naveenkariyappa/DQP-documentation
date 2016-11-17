@@ -23,7 +23,4 @@
 - [Frequently asked Questions](#awesome-php-security)
 - [More..](#awesome-reversing)
 
----
-
 #### Getting Started
-A curated list of resources for learning about application security
