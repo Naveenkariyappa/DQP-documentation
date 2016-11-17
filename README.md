@@ -39,6 +39,7 @@ Creating a user and being a part of a company is a mangatory step to conduct pol
 
 <a name="Create-Company"/>
 #### Create Company
+Being a part of a company is mandaory if you want to conduct polls or quiz, This can be done once you login as a user, click on the Create Company Button you can see on your screen. once you click on the screen you can see a forn sliding in from the right side of your screen. Where you need to enter Company code, Company Name, Company Address, Company Contact(A contact where we a communicate), Company Phone number, Moble number, Email address, Accept the terms and condition by selecting it as true and click Add button to create a company.
 
 <a name="Manage-Company"/>
 #### Manage Company
