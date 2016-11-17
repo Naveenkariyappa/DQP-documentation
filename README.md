@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-- [Getting Started](#awesome-appsec)
+- [Getting Started](#Getting-Started)
 - [Create user](#awesome-bug-bounty)
 - [Create Company](#awesome-ctf)
 - [Manage Company](#awesome-devsecops)
