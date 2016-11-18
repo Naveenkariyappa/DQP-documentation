@@ -60,6 +60,7 @@ Create Polls gives you the levereage to create polls, Once you create polls you 
   
   Once you select Polls you can see the following screen 
   
+  ![Hands on exxel polls] (Hands-onExcelPoll.jpg)
 
 <a name="Create-Questions"/>
 #### Create Questions
