@@ -152,7 +152,7 @@ Creating, Launching, Deleting and Managing the Questions! (Poll cards)
 
   ![Launch Poll](images/launchPoll.jpg)
   
-<a name="Launch Questions"/>
+<a name="Launch-Questions)"/>
 #### Launch Questions
 Launching a question gives you leverage to Launch and analyse the results of that perticular questions. Before you could launch a Question you need to have the admin privillages to launch a Poll and so forth a question. To launch a question you need to simply select Manage Poll button from your home screen, you can see this button only if you have the right privillages, Once you click on manage polls you can see all the polls created in your company. As shown in the image below
 
