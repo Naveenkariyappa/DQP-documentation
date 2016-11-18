@@ -161,6 +161,10 @@ Launching a question gives you leverage to Launch and analyse the results of tha
 You need to select the poll which you intend to launch, remember a question always belong to a Poll. If you have not created Poll please do so. refer [Create Polls](#Create-Polls), to create a Poll. however if you alrrady have a Poll created you need to be have created a question to launch it. If you have not created a question and added into your poll please do so. refer [Create Questions](#Create-Questions) to create a question. Once you have created the question to launch the question you need to have launched the poll if you have not launched the poll. please do so. refer [Launch Polls](#Launch-Polls) to launch a poll.
 And finally once the Poll is launched you can see the following screen. 
 
+   ![Create Question](createQuestion.jpg)
+
+Here you can see all the questions which are ready to be launched. please note that if the questions are in editing state, though you launch poll you won't be able to see the questions. Hence make sure the question are in ready state.
+
 <a name="Invite-Poll-Participants"/>
 #### Invite Poll Participants
 
