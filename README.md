@@ -1,4 +1,4 @@
-![Awesome Hacking](images/DoQuickPoll.jpg)
+![Do quick poll](images/DoQuickPoll.jpg)
 # Do Quick Poll -documentation
 **A Place Where you can conduct polls and do analysis on the go with no efforts.**
 
@@ -41,13 +41,13 @@ Creating a user and being a part of a company is a mangatory step to conduct pol
 #### Create Company
 Being a part of a company is mandaory if you want to conduct polls or quiz, This can be done once you login as a user, click on the Create Company Button you can see on your screen. once you click on the screen you can see a forn sliding in from the right side of your screen. Where you need to enter Company code, Company Name, Company Address, Company Contact(A contact where we a communicate), Company Phone number, Moble number, Email address, Accept the terms and condition by selecting it as true and click Add button to create a company.
 
-![Awesome Hacking](images/createCompany.jpg)
+![Create company](images/createCompany.jpg)
 
 <a name="Manage-Company"/>
 #### Manage Company
 Manage Company gives you the leverage to manage your company, see the details, edit Details, see list of users add a new user to the company, add a new admin to the company or remove the user. To Edit company details all you need to do is click on the pencil icon on the top right corneer of the company detail template and you will be redirected to a form where you can edit the company details and click on update to commit changes about the company. 
 
-![Awesome Hacking](images/manageCompany.jpg)
+![Manage Company](images/manageCompany.jpg)
 
 <a name="Create-Polls"/>
 #### Create Polls
