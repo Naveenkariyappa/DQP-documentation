@@ -45,13 +45,13 @@ Being a part of a company is mandaory if you want to conduct polls or quiz, This
 
 <a name="Manage-Company"/>
 #### Manage Company
-Manage Company gives you the levereage to manage your company, see the details, edit Details, see list of users add a new user to the company, add a new admin to the company or remove the user. To Edit company details all you need to do is click on the pencil icon on the top right corneer of the company detail template and you will be redirected to a form where you can edit the company details and click on update to commit changes about the company. 
+Manage Company gives you the leverage to manage your company, see the details, edit Details, see list of users add a new user to the company, add a new admin to the company or remove the user. To Edit company details all you need to do is click on the pencil icon on the top right corneer of the company detail template and you will be redirected to a form where you can edit the company details and click on update to commit changes about the company. 
 
 ![Awesome Hacking](manageCompany.jpg)
 
 <a name="Create-Polls"/>
 #### Create Polls
-Create Polls gives you the levereage to create polls, Once you create polls you can add questions to polls. Creating Polls can be achieved in two ways
+Create Polls gives you the leverage to create polls, Once you create polls you can add questions to polls. Creating Polls can be achieved in two ways
   
   ##### Adding Polls from Hands on Excel
   Adding polls from hands on excel can be achieved by running through the following steps
@@ -69,7 +69,7 @@ Create Polls gives you the levereage to create polls, Once you create polls you 
  - Copy the data.
  - Switch to page showing the above scren and paste the data copied from your excel sheets 
 
-Here you will levereage to manage polls for 
+Here you will leverage to manage polls for 
 
 Creating, Launching, Deleting and Managing the Polls! (Poll cards)
 
@@ -87,7 +87,7 @@ Creating, Launching, Deleting and Managing the Polls! (Poll cards)
 <a name="Create-Questions"/>
 #### Create Questions
 
-Create Polls gives you the levereage to create polls, Once you create polls you can add questions to polls. Creating Polls can be achieved in two ways
+Create Polls gives you the leverage to create polls, Once you create polls you can add questions to polls. Creating Polls can be achieved in two ways
   
   ##### Adding Questions from Hands on Excel
   Adding polls from hands on excel can be achieved by running through the following steps
@@ -127,6 +127,12 @@ Creating, Launching, Deleting and Managing the Questions! (Poll cards)
 
 <a name="Launch-Polls"/>
 #### Launch Polls
+  
+  Launching a Poll gives you leverage to Launch and analyse the results. Before you could launch a poll you need to have the admin privillages to launch a Poll.  To launch a poll you need to simply select Manage Poll button from your home screen, you can see this button only if you have the right privillages, Once you click on manage polls you can see all the polls created in your company. As shown in the image below
+  
+![Create poll](createPoll.jpg)
+
+  as you can see there are four buttons for each poll
 
 <a name="Launch Questions"/>
 #### Launch Questions
