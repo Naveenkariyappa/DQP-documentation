@@ -51,6 +51,15 @@ Manage Company gives you the levereage to manage your company, see the details, 
 
 <a name="Create-Polls"/>
 #### Create Polls
+Create Polls gives you the levereage to create polls, Once you create polls you can add questions to polls. Creating Polls can be achieved in two ways
+  ##### Adding Polls from Hands on Excel
+  Adding polls from hands on excel can be achieved by running through the following steps
+  
+  Firstly you need to have the admin privillges to create a poll in a company
+  once you login as a admin you can see a Load data button on the top right corner of your screen nect to the logout button, you can click on that to and you can see a dropdown where you can see options like Polls and Questions. you need to select Polls to add Polls from hands on Excel.
+  
+  Once you select Polls you can see the following screen 
+  
 
 <a name="Create-Questions"/>
 #### Create Questions
