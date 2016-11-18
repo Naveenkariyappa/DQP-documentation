@@ -41,13 +41,13 @@ Creating a user and being a part of a company is a mangatory step to conduct pol
 #### Create Company
 Being a part of a company is mandaory if you want to conduct polls or quiz, This can be done once you login as a user, click on the Create Company Button you can see on your screen. once you click on the screen you can see a forn sliding in from the right side of your screen. Where you need to enter Company code, Company Name, Company Address, Company Contact(A contact where we a communicate), Company Phone number, Moble number, Email address, Accept the terms and condition by selecting it as true and click Add button to create a company.
 
-![Awesome Hacking](createCompany.jpg)
+![Awesome Hacking](images/createCompany.jpg)
 
 <a name="Manage-Company"/>
 #### Manage Company
 Manage Company gives you the leverage to manage your company, see the details, edit Details, see list of users add a new user to the company, add a new admin to the company or remove the user. To Edit company details all you need to do is click on the pencil icon on the top right corneer of the company detail template and you will be redirected to a form where you can edit the company details and click on update to commit changes about the company. 
 
-![Awesome Hacking](manageCompany.jpg)
+![Awesome Hacking](images/manageCompany.jpg)
 
 <a name="Create-Polls"/>
 #### Create Polls
@@ -61,7 +61,7 @@ Create Polls gives you the leverage to create polls, Once you create polls you c
   
   Once you select Polls you can see the following screen 
   
-  ![Hands on exxel polls] (Hands-onExcelPoll.jpg)
+  ![Hands on exxel polls] (images/Hands-onExcelPoll.jpg)
   
   once you see the following screen you are ready to add polls using hands on excel
   
@@ -97,7 +97,7 @@ Create Polls gives you the leverage to create polls, Once you create polls you c
   
   Once you select Question you can see the following screen 
   
-  ![Hands on excel polls] (Hands-onExcelQuestion.jpg)
+  ![Hands on excel polls] (images/Hands-onExcelQuestion.jpg)
   
   once you see the following screen you are ready to add questions using hands on excel
   
@@ -130,38 +130,38 @@ Creating, Launching, Deleting and Managing the Questions! (Poll cards)
   
   Launching a Poll gives you leverage to Launch and analyse the results. Before you could launch a poll you need to have the admin privillages to launch a Poll.  To launch a poll you need to simply select Manage Poll button from your home screen, you can see this button only if you have the right privillages, Once you click on manage polls you can see all the polls created in your company. As shown in the image below
   
-![Create poll](createPoll.jpg)
+![Create poll](images/createPoll.jpg)
 
   as you can see there are four buttons for each poll - Creating, Launching, Deleting and Managing the Polls! (Poll cards) 
   
 1. The first button on the poll card lets you to view the details of the poll.
   - You can also Edit or Delete Poll from the view poll template, In the View Poll you can see a Pencil and a Trash symbol on the top left corner of the template. The Trash like button lets you delete the poll and the pencil like button lets you edit the poll. Make sure you change the status to rready to keep the poll ready to launch.
   
-  ![Edit poll](EditPoll.jpg)
+  ![Edit poll](images/EditPoll.jpg)
   
 2. The second button on the poll card lets you to launch your poll, that is changing the poll status from editing to ready, so that you can release it across. 
 3. The third button(trash shaped) is to delete the poll.
 4. The fourth button(? shaped) is to get inside the poll, to view all the questions in that perticular poll.
 
-  ![Poll card](PollCard.jpg)
+  ![Poll card](images/PollCard.jpg)
 
 5. The poll+ button just below the hamburger icon is to create a new poll.
 6. Also the plus button just below the logout button is to create a new poll. The button next to it, is to check the poll conducted list.
 7. Poll code should always be in upper case.
 8. To Launch poll click on the second button with the launch symbol, once you click the second button you should be getting a confirmation pop-up asking if are you sure to launch the poll. Select Launch to Lauunch the poll
 
-  ![Launch Poll](launchPoll.jpg)
+  ![Launch Poll](images/launchPoll.jpg)
   
 <a name="Launch Questions"/>
 #### Launch Questions
 Launching a question gives you leverage to Launch and analyse the results of that perticular questions. Before you could launch a Question you need to have the admin privillages to launch a Poll and so forth a question. To launch a question you need to simply select Manage Poll button from your home screen, you can see this button only if you have the right privillages, Once you click on manage polls you can see all the polls created in your company. As shown in the image below
 
-![Create poll](createPoll.jpg)
+![Create poll](images/createPoll.jpg)
 
 You need to select the poll which you intend to launch, remember a question always belong to a Poll. If you have not created Poll please do so. refer [Create Polls](#Create-Polls), to create a Poll. however if you alrrady have a Poll created you need to be have created a question to launch it. If you have not created a question and added into your poll please do so. refer [Create Questions](#Create-Questions) to create a question. Once you have created the question to launch the question you need to have launched the poll if you have not launched the poll. please do so. refer [Launch Polls](#Launch-Polls) to launch a poll.
 And finally once the Poll is launched you can see the following screen. 
 
-   ![Create Question](createQuestion.jpg)
+   ![Create Question](images/createQuestion.jpg)
 
 Here you can see all the questions which are ready to be launched. please note that if the questions are in editing state, though you launch poll you won't be able to see the questions. Hence make sure the question are in ready state.
 
