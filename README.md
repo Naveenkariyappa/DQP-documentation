@@ -132,7 +132,18 @@ Creating, Launching, Deleting and Managing the Questions! (Poll cards)
   
 ![Create poll](createPoll.jpg)
 
-  as you can see there are four buttons for each poll
+  as you can see there are four buttons for each poll - Creating, Launching, Deleting and Managing the Polls! (Poll cards) 
+  
+1. The first button on the poll card lets you to view the details of the poll.
+  - You can also Edit or Delete Poll from the view poll template, In the View Poll you can see a Pencil and a Trash symbol on the top left corner of the template. The Trash like button lets you delete the poll and the pencil like button lets you edit the poll. Make sure you change the status to rready to keep the poll ready to launch. 
+2. The second button on the poll card lets you to launch your poll, that is changing the poll status from editing to ready, so that you can release it across. 
+3. The third button(trash shaped) is to delete the poll.
+4. The fourth button(? shaped) is to get inside the poll, to view all the questions that the poll consists of.  
+5. The poll+ button just below the hamburger icon is to create a new poll.
+6. Also the plus button just below the logout button is to create a new poll. The button next to it, is to check the poll conducted list.
+7. Poll code should always be in upper case.
+8. To Launch poll click on the second button with the launch symbol, once you click the second button you should be getting a confirmation pop-up asking if are you sure to launch the poll. Select Launch to Lauunch the poll
+
 
 <a name="Launch Questions"/>
 #### Launch Questions
