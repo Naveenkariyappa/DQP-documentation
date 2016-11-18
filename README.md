@@ -52,6 +52,7 @@ Manage Company gives you the levereage to manage your company, see the details, 
 <a name="Create-Polls"/>
 #### Create Polls
 Create Polls gives you the levereage to create polls, Once you create polls you can add questions to polls. Creating Polls can be achieved in two ways
+  
   ##### Adding Polls from Hands on Excel
   Adding polls from hands on excel can be achieved by running through the following steps
   
@@ -61,6 +62,30 @@ Create Polls gives you the levereage to create polls, Once you create polls you 
   Once you select Polls you can see the following screen 
   
   ![Hands on exxel polls] (Hands-onExcelPoll.jpg)
+  
+  once you see the following screen you are ready to add polls using hands on excel
+1. In your Excel, select the poll data that you want to copy
+2. Copy the data.
+3. Switch to page showing the above scren and paste the data copied from your excel sheets 
+
+Here you will levereage to manage polls for 
+
+Creating, Launching, Deleting and Managing the Polls! (Poll cards)
+
+- Make sure you have selected insert on the action column This will instruct to the system that data is being inserted
+- Make sure you have put Poll code in all capital characters example POLL01 and is a 6 characher code which is used to distingush between polls This format is expected is standardised data within polls
+- Give a appropriate poll name at the column which says Poll nameExample Science Class
+- Give a small discription for the poll
+  Editor -
+  Status -
+
+- Save Button is used to save the data to the lacal system Note:- This data is only saved in the lacal syatem to load the data onto the server you need to load it as Load Application data
+- Load saved data button is used to load data from your local system Note:- This data is being loaded from the local system if you intend to load it from the server please select Load Application Data
+    Load Application Data Button
+    Update Application Data Button
+
+
+
 
 <a name="Create-Questions"/>
 #### Create Questions
