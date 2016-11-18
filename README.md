@@ -1,4 +1,4 @@
-![Awesome Hacking](DoQuickPoll.jpg)
+![Awesome Hacking](images/DoQuickPoll.jpg)
 # Do Quick Poll -documentation
 **A Place Where you can conduct polls and do analysis on the go with no efforts.**
 
