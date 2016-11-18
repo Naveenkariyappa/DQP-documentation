@@ -151,10 +151,15 @@ Creating, Launching, Deleting and Managing the Questions! (Poll cards)
 8. To Launch poll click on the second button with the launch symbol, once you click the second button you should be getting a confirmation pop-up asking if are you sure to launch the poll. Select Launch to Lauunch the poll
 
   ![Launch Poll](launchPoll.jpg)
-  ![Confirm launch](confirmPollLaunch.jpg)
   
 <a name="Launch Questions"/>
 #### Launch Questions
+Launching a question gives you leverage to Launch and analyse the results of that perticular questions. Before you could launch a Question you need to have the admin privillages to launch a Poll and so forth a question. To launch a question you need to simply select Manage Poll button from your home screen, you can see this button only if you have the right privillages, Once you click on manage polls you can see all the polls created in your company. As shown in the image below
+
+![Create poll](createPoll.jpg)
+
+You need to select the poll which you intend to launch, remember a question always belong to a Poll. If you have not created Poll please do so. refer [Create Polls](#Create-Polls), to create a Poll. however if you alrrady have a Poll created you need to be have created a question to launch it. If you have not created a question and added into your poll please do so. refer [Create Questions](#Create-Questions) to create a question. Once you have created the question to launch the question you need to have launched the poll if you have not launched the poll. please do so. refer [Launch Polls](#Launch-Polls) to launch a poll.
+And finally once the Poll is launched you can see the following screen. 
 
 <a name="Invite-Poll-Participants"/>
 #### Invite Poll Participants
