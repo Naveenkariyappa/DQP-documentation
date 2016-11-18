@@ -119,11 +119,10 @@ Creating, Launching, Deleting and Managing the Questions! (Poll cards)
  - Options :-
  - Answer yes /no :-
  - Answer :-
-
-  - Save Button is used to save the data to the lacal system Note:- This data is only saved in the lacal syatem to load the data onto the server you need to load it as Load Application data
-  - Load saved data button is used to load data from your local system Note:- This data is being loaded from the local system if you intend to load it from the server please select Load Application Data
-  - Load Application Data Button
-  - Update Application Data Button
+ - Save Button is used to save the data to the lacal system Note:- This data is only saved in the lacal syatem to load the data onto the server you need to load it as Load Application data
+ - Load saved data button is used to load data from your local system Note:- This data is being loaded from the local system if you intend to load it from the server please select Load Application Data
+ - Load Application Data Button
+ - Update Application Data Button
 
 
 <a name="Launch-Polls"/>
