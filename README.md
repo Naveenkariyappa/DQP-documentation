@@ -188,7 +188,14 @@ Here you can find the list of all the polls created in your company. You need to
 
    ![Create Question](images/Launcing poll.jpg)
    
-Here you can find Invite button on the Top of the screen. Click on the invite button 
+Here you can find Invite button on the Top of the screen. Click on the invite button and the following pop-up screen where you can type in the participant's mail ids to invite and click OK. This sends a mail to the participants with the url.
+
+  ![invite Poll](InvitePoll.jpg)
+  
+  
+There is also another way to invite participants, Once you Launch the poll you can see the generated url on the top on the screen, you can also copy the url and send it via any texting medium like messages, whatsapp, facebbook etc.
+
+   
 
 <a name="Analyse-Results"/>
 #### Analyse Results
