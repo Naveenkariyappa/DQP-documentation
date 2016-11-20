@@ -170,11 +170,13 @@ once you see all the questions please click on select to get in to Launch consol
 
 Here you can see the question code, Status and options like Release, Delete and Close that perticular Questions selected.
 
-  - 1 Select Release to launch the questions, Once you select release you must be seeing at a pop-up asking for time(in seconds), Please select the appropriate time and click OK. Note the Default time is 30 seconds(if you don't select time limit it is 30 seconds by default)
+  - 1 Select Release to launch the questions, Once you select release you must be seeing at a pop-up asking for time(in seconds), Please select the appropriate time and click OK. Note the Default time is 30 seconds(if you don't select time limit it is 30 seconds by default).
+       
+   ![Time Limit](TimeLimit.jpg)
+ 
+  - 2 Select Delete to delete that perticular question.
   
-  
-      
-   ![Launch Question](LaunchQuestion.jpg)
+  - 3 elect Close to Close that perticular question manually.
       
 <a name="Invite-Poll-Participants"/>
 #### Invite Poll Participants
