@@ -211,8 +211,8 @@ Deleting a poll is very easy, all you need to do is from your home page just cli
 2. The second button on the poll card lets you to launch your poll, that is changing the poll status from editing to ready, so that you can release it across. 
 3. The third button(trash shaped) is to delete the poll.
 4. The fourth button(? shaped) is to get inside the poll, to view all the questions in that perticular poll.
-
-  ![Poll card](images/PollCard.jpg)
+  
+![Poll card](images/PollCard.jpg)
   
 The third button on the poll card will Delete the poll.
 
