@@ -172,7 +172,7 @@ Here you can see the question code, Status and options like Release, Delete and 
 
   - 1 Select Release to launch the questions, Once you select release you must be seeing at a pop-up asking for time(in seconds), Please select the appropriate time and click OK. Note the Default time is 30 seconds(if you don't select time limit it is 30 seconds by default).
        
-![Time Limit](TimeLimit.jpg)
+  ![Time Limit](TimeLimit.jpg)
  
   - 2 Select Delete to delete that perticular question.
   
