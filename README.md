@@ -144,7 +144,7 @@ Creating, Launching, Deleting and Managing the Questions! (Poll cards)
 4. The fourth button(? shaped) is to get inside the poll, to view all the questions in that perticular poll.
 
   ![Poll card](images/PollCard.jpg)
-
+    
 5. The poll+ button just below the hamburger icon is to create a new poll.
 6. Also the plus button just below the logout button is to create a new poll. The button next to it, is to check the poll conducted list.
 7. Poll code should always be in upper case.
@@ -191,17 +191,29 @@ Here you can find the list of all the polls created in your company. You need to
 Here you can find Invite button on the Top of the screen. Click on the invite button and the following pop-up screen where you can type in the participant's mail ids to invite and click OK. This sends a mail to the participants with the url.
 
   ![invite Poll](images/InvitePoll.jpg)
-  
-  
+    
 There is also another way to invite participants, Once you Launch the poll you can see the generated url on the top on the screen, you can also copy the url and send it via any texting medium like messages, whatsapp, facebbook etc.
-
-   
 
 <a name="Analyse-Results"/>
 #### Analyse Results
+Analysing resuls is very simple. you can do it when a question is closed after polling, Once the question is closed the results can be seen on the right side template of the question. Poll participants will also have the privillage to view the results as the they participate in the poll. The results for them is seen below the question.
 
 <a name="Delete-polls"/>
 #### Delete polls
+Deleting a poll is very easy, all you need to do is from your home page just click on Manage Polls, In order to do so need to have the right privillages. Once you click on manage polls you will be able to see all the polls listed in your company. 
+ 
+ ![Create poll](images/createPollFull.jpg)
+ 
+  as you can see there are four buttons for each poll - Creating, Launching, Deleting and Managing the Polls! (Poll cards) 
+  
+1. The first button on the poll card lets you to view the details of the poll.
+  - You can also Edit or Delete Poll from the view poll template, In the View Poll you can see a Pencil and a Trash symbol on the top left corner of the template. The Trash like button lets you delete the poll and the pencil like button lets you edit the poll. Make sure you change the status to rready to keep the poll ready to launch.
+  
+  ![Edit poll](images/EditPoll.jpg)
+  
+2. The second button on the poll card lets you to launch your poll, that is changing the poll status from editing to ready, so that you can release it across. 
+3. The third button(trash shaped) is to delete the poll.
+4. The fourth button(? shaped) is to get inside the poll, to view all the questions in that perticular poll.
 
 <a name="Delete-Questions"/>
 #### Delete Questions
