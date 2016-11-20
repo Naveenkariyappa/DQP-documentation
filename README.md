@@ -180,6 +180,15 @@ Here you can see the question code, Status and options like Release, Delete and 
       
 <a name="Invite-Poll-Participants"/>
 #### Invite Poll Participants
+Inviting a poll is a necessary step to invite participants to your Poll. Before you could invite a participant you need to have the admin privillages to launch a Poll and so forth invite a participant. To invite you need to simply select Manage Poll button from your home screen, you can see this button only if you have the right privillages, Once you click on manage polls you can see all the polls created in your company. As shown in the image below
+
+   ![Create poll](images/createPollFull.jpg)
+
+Here you can find the list of all the polls created in your company. You need to select the poll which you intend to launch and Launch the poll to invite, Once you launch the poll you should be able to see the following screen.
+
+   ![Create Question](images/Launcing poll.jpg)
+   
+Here you can find Invite button on the Top of the screen. Click on the invite button 
 
 <a name="Analyse-Results"/>
 #### Analyse Results
