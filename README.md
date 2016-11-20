@@ -163,10 +163,19 @@ And finally once the Poll is launched you can see the following screen.
 
    ![Create Question](images/Launcing poll.jpg)
 
-Here you can see all the questions which are ready to be launched. please note that if the questions are in editing state, though you launch poll you won't be able to see the questions. Hence make sure the question are in ready state.
+Here you can see all the questions which are ready to be launched on the left hand side of your screen. please note that if the questions are in editing state, though you launch poll you won't be able to see the questions. Hence make sure the question are in ready state.
+once you see all the questions please click on select to get in to Launch console and you should be seeing the following screen
+    
+   ![Launch Question](LaunchQuestion.jpg) 
 
-Once you have met all
+Here you can see the question code, Status and options like Release, Delete and Close that perticular Questions selected.
 
+  - 1 Select Release to launch the questions, Once you select release you must be seeing at a pop-up asking for time(in seconds), Please select the appropriate time and click OK. Note the Default time is 30 seconds(if you don't select time limit it is 30 seconds by default)
+  
+  
+      
+   ![Launch Question](LaunchQuestion.jpg)
+      
 <a name="Invite-Poll-Participants"/>
 #### Invite Poll Participants
 
