@@ -207,35 +207,36 @@ Delete Company gives you the leverage to delete your company.
 
 <a name="participate-in-a-Poll"/>
 #### participate in a Poll
+A participant can participate in a poll through our web interface or mobile interface. Anyone who has a web browser can participate. You control which poll your participants sees by Launching it. And you need to send across the URL of the particular poll to the participants(by Inviting). They visit your Poll page at http://205.147.100.236/Poll/username/ABCDE, the poll appears, and they click to respond.
 
 <a name="View-conducted-polls"/>
 #### View conducted polls
-Results can be displayed in a graph.
+Instant Results allows you to show your respondents a real-time summary of your poll results. The results are displayed in the form of a graph, Pie chart.  
 
 <a name="Frequently-asked-Questions"/>
 #### Frequently asked Questions
 
 1. How does it work?
- As a poll is displayed to an participants, they need to submit their responses by visiting a specific web site(URL). The responses given by the participants are analysed and the results can be displayed in a graph. The response is displayed in real time on-screen.
+     As a poll is displayed to an participants, they need to submit their responses by visiting a specific web site(URL). The responses given by the participants are analysed and the results can be displayed in a graph. The response is displayed in real time on-screen.
 
 2. What is a poll? Is it the same as a question ? 
- Yes, a poll is a same as a question or prompt you are inviting your participants to interact with.
+    Yes, a poll is a same as a question or prompt you are inviting your participants to interact with.
 
 3. What is the difference between the different types of polls?
- Yes/No question is a question whose expected answer is either "yes" or "no". An example of a Yes/No question, Is java an object oriented language?" with options Yes or No.
- Select options or A multiple choice question lets you define a set of choices that participants can choose from.  An example of a select options or multiple choice question, "Which is a valid keyword in java?" with options like "interface", "string", "FLoat", and "unsigned". 
- An open ended question allows participants to send free-form text responses or short answers instead of pre-defined choices. An example of an open ended question, "What is Collection in Java?" and participants can send in any short answer they want. Their answers might be just one word, a short phrase, or an entire sentence. Example, A collection is a group of objects, it is similar to String Template Library (STL) of C++ programming language.
+    Yes/No question is a question whose expected answer is either "yes" or "no". An example of a Yes/No question, Is java an object oriented language?" with options Yes or No.
+    Select options or A multiple choice question lets you define a set of choices that participants can choose from.  An example of a select options or multiple choice question, "Which is a valid keyword in java?" with options like "interface", "string", "FLoat", and "unsigned". 
+     An open ended question allows participants to send free-form text responses or short answers instead of pre-defined choices. An example of an open ended question, "What is Collection in Java?" and participants can send in any short answer they want. Their answers might be just one word, a short phrase, or an entire sentence. Example, A collection is a group of objects, it is similar to String Template Library (STL) of C++ programming language.
 
 4. What is an active poll?
- Active poll is the poll that's on the big screen in front of everyone, being shown on their mobile devices.
+     Active poll is the poll that's on the big screen in front of everyone, being shown on their mobile devices.
 
 5. What is poll status of a poll? Can I activate more than one poll at a time?
- State of polls at a particular time. It can be Editing, Ready. Once the polling is done, you can archive(backup) your poll details. Most presenters want to focus on one poll question at a time with their participants. That's the default way we've set things up.
+    State of polls at a particular time. It can be Editing, Ready. Once the polling is done, you can archive(backup) your poll details. Most presenters want to focus on one poll question at a time with their participants. That's the default way we've set things up.
  
- Yes, If you want your participants to be able to answer lots of questions all at the same time, you can set that up. Only one poll can be the active poll at a time. It's our way of identifying which poll you're currently presenting. A poll will automatically become the active poll anytime you present it.
+    Yes, If you want your participants to be able to answer lots of questions all at the same time, you can set that up. Only one poll can be the active poll at a time. It's our way of identifying which poll you're currently presenting. A poll will automatically become the active poll anytime you present it.
 
 6. How fast do responses show up?
- Most of the time a response will be displayed within 2-5 seconds. The delay depends on the participant's cellular carrier or internet bandwidth of the participants and Finally on to live polls wherever they are being viewed. Poll Everywhere has handled very large events with thousands of responses. Web and smartphone responses are instant.
+    Most of the time a response will be displayed within 2-5 seconds. The delay depends on the participant's cellular carrier or internet bandwidth of the participants and Finally on to live polls wherever they are being viewed. Poll Everywhere has handled very large events with thousands of responses. Web and smartphone responses are instant.
 
 7. How will my audience know how to respond?
 
