@@ -18,7 +18,7 @@
 - [Analyse Results](#Analyse-Results)
 - [Delete polls](#Delete-polls)
 - [Delete Questions](#Delete-Questions)
-- [Delete companiy](#Delete-companiy)
+- [Delete company](#Delete-company)
 - [participate in a Poll](#participate-in-a-Poll)
 - [View conducted polls](#View-conducted-polls)
 - [Frequently asked Questions](#Frequently-asked-Questions)
