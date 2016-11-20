@@ -19,6 +19,7 @@
 - [Delete polls](#Delete-polls)
 - [Delete Questions](#Delete-Questions)
 - [Delete companiy](#Delete-companiy)
+- [participate in a Poll](#participate-in-a-Poll)
 - [View conducted polls](#View-conducted-polls)
 - [Frequently asked Questions](#Frequently-asked-Questions)
 - [More..](#More)
@@ -223,6 +224,9 @@ The third button(trash shaped) on the poll card is to Delete the poll. Click on 
 
 <a name="Delete-companiy"/>
 #### Delete companiy
+
+<a name="participate-in-a-Poll"/>
+#### participate in a Poll
 
 <a name="View-conducted-polls"/>
 #### View conducted polls
