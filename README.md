@@ -26,7 +26,7 @@
 
 
 <a name="Getting-Started"/>
-#### Getting Started
+### Getting Started
 This is the guide for using Doquickpoll application for Conducting Quiz, Surveys which can be static or dynamic, Polls and Questionaire. You can create a Poll, survey, questionaire, test or a quiz.
 Add questions to the created artifact.
 These questions can have different types of answer sets in terms of multiple choice, binary or a free flow text.
@@ -34,26 +34,26 @@ The admins of the poll can conduct the polling and survey.
 and so much more
 
 <a name="Create-user"/>
-#### Create user
+### Create user
 Creating a user and being a part of a company is a mandatory step to conduct polls or quiz, This can be done by clicking a Login button on top right corner of your page. Once after clicking if already have an account registered, you can enter credentials and login. If you are a new user you can click register on the screen and fill the simple form consisting of your Username, Email ID, Password, preferred Email, Mobile number, your name to be addressed and if you are available to contact select 'Yes' else select 'No' and finally click on the register button.
 
 <a name="Create-Company"/>
-#### Create Company
+### Create Company
 Being a part of a company is mandaory if you want to conduct polls or quiz, This can be done once you login as a user, click on the Create Company Button you can see on your screen. once you click on the screen you can see a form sliding in from the right side of your screen. Where you need to enter Company code, Company Name, Company Address, Company Contact(A contact where we a communicate), Company Phone number, Moble number, Email address, Accept the terms and condition by selecting it as true and click Add button to create a company.
 
 ![Create company](images/createCompany.jpg)
 
 <a name="Manage-Company"/>
-#### Manage Company
+### Manage Company
 Manage Company gives you the leverage to manage your company, see the details, edit Details, see list of users, add a new user to the company, add a new admin to the company or remove the user. To Edit company details all you need to do is click on the pencil icon on the top right corner of the company detail template and you will be redirected to a form where you can edit the company details and click on the update button to commit changes about the company. 
 
 ![Manage Company](images/manageCompany.jpg)
 
 <a name="Create-Polls"/>
-#### Create Polls
+### Create Polls
 Create Polls gives you the leverage to create poll or multiple polls, Once you create poll, you can add questions to polls. Creating poll can be achieved in two ways
   
-  ##### Adding Polls from Hands-on Excel
+##### Adding Polls from Hands-on Excel
   Adding polls from hands on excel can be achieved by running through the following steps
   
   Firstly, You need to have the admin privillges to create a poll in a company. Once you login as an admin, you can see a Load data button on the top right corner of your screen next to the logout button, you can click on that and you will be able to see a dropdown where you can see options like Polls and Questions. you need to select Polls to add Polls from hands on Excel.
@@ -84,11 +84,11 @@ Creating, Launching, Deleting and Managing the Polls! (Poll cards)
 - Update Application Data Button is used to bring the data to latest state.
 
 <a name="Create-Questions"/>
-#### Create Questions
+### Create Questions
 
 Create questions gives you the leverage to create questions or add questions to a particular poll. Creating questions can be achieved in two ways
   
-  ##### Adding Questions from Hands-on Excel
+##### Adding Questions from Hands-on Excel
   Adding questions from hands-on excel can be achieved by the following steps
   
   Once you login as an admin you can see a Load data button on the top right corner of your screen next to the logout button, you can click on that and you can see a dropdown where you can see options like Polls and Questions. you need to select Question to add Question from hands-on Excel.
@@ -124,7 +124,7 @@ Creating, Launching, Deleting and Managing the Questions! (Question cards)
 
 
 <a name="Launch-Polls"/>
-#### Launch Polls
+### Launch Polls
   
   Launching a Poll gives you leverage to Launch and analyse the results. Before you could launch a poll, you need to have admin privilege. To launch a poll you need to simply select Manage Poll button from your home screen, you can see this button only if you have the right privilege, Once you click on manage polls you can see all the polls created in your company. As shown in the image below
   
@@ -171,7 +171,7 @@ Here you can see the question code, Status and options like Release, Delete and 
   - 3 Select Close to Close that particular question manually.
       
 <a name="Invite-Poll-Participants"/>
-#### Invite Poll Participants
+### Invite Poll Participants
 Inviting a poll is a necessary step to invite interested participants to your Poll. Before you could invite a participant you need to have the admin privilege to launch a Poll and so forth invite a participant. To invite you need to simply select Manage Poll button from your home screen, you can see this button only if you have the right privilege, Once you click on manage polls you can see all the polls created in your company. As shown in the image below
 
    ![Create poll](images/createPollFull.jpg)
@@ -187,60 +187,58 @@ Here you can find Invite button on the Top of the screen. Click on the invite bu
 There is also another way to invite participants, Once you Launch the poll you can see the generated URL on the top on the screen, you can also copy the url and send it via any texting medium like messages, whatsapp, facebook etc.
 
 <a name="Analyse-Results"/>
-#### Analyse Results
+### Analyse Results
 Analysing results is very simple. You can do it when a question is closed after polling, Once the question is closed the results can be seen on the right side template of the question. Poll participants will also have the privilege to view the results as the they participate in the poll. The results for them is seen below the question.
 
 <a name="Delete-polls"/>
-#### Delete polls
+### Delete polls
 Deleting a poll is very easy, all you need to do is from your home page just click on Manage Polls, In order to do so, you need to have the right privilege. Once you click on manage polls you will be able to see all the polls listed in your company. You can select the poll of interest and delete it by clicking the trash button.
  
 ![Delete Poll](images/delete.jpg)
 
 <a name="Delete-Questions"/>
-#### Delete Questions
+### Delete Questions
 Deleting a question is very easy, all you need to do is from your home page just click on Manage Polls, In order to do so, you need to have the right privilege. Once you click on manage polls you will be able to see all the polls listed in your company. You need to select your poll of interest and get inside by clicking the ? shaped button. And here, you can see the questions, you can select the question that you want to delete and delete it by clicking the trash button.
 
 <a name="Delete-company"/>
-#### Delete company
+### Delete company
 Delete Company gives you the leverage to delete your company.
 
 
 <a name="participate-in-a-Poll"/>
-#### participate in a Poll
+### participate in a Poll
 A participant can participate in a poll through our web interface or mobile interface. Anyone who has a web browser can participate. You control which poll your participants sees by Launching it. And you need to send across the URL of the particular poll to the participants(by Inviting). They visit your Poll page at http://205.147.100.236/Poll/username/ABCDE, the poll appears, and they click to respond.
 
 <a name="View-conducted-polls"/>
-#### View conducted polls
+### View conducted polls
 Instant Results allows you to show your respondents a real-time summary of your poll results. The results are displayed in the form of a graph, Pie chart.  
 
 <a name="Frequently-asked-Questions"/>
-#### Frequently asked Questions
+### Frequently asked Questions
 
-1. How does it work?
-     As a poll is displayed to an participants, they need to submit their responses by visiting a specific web site(URL). The responses given by the participants are analysed and the results can be displayed in a graph. The response is displayed in real time on-screen.
+#### 1. How does it work?
+   As a poll is displayed to an participants, they need to submit their responses by visiting a specific web site(URL). The responses given by the participants are analysed and the results can be displayed in a graph. The response is displayed in real time on-screen.
 
-2. What is a poll? Is it the same as a question ? 
-    Yes, a poll is a same as a question or prompt you are inviting your participants to interact with.
+#### 2. What is a poll? Is it the same as a question ? 
+   Yes, a poll is a same as a question or prompt you are inviting your participants to interact with.
 
-3. What is the difference between the different types of polls?
-    Yes/No question is a question whose expected answer is either "yes" or "no". An example of a Yes/No question, Is java an object oriented language?" with options Yes or No.
-    Select options or A multiple choice question lets you define a set of choices that participants can choose from.  An example of a select options or multiple choice question, "Which is a valid keyword in java?" with options like "interface", "string", "FLoat", and "unsigned". 
-     An open ended question allows participants to send free-form text responses or short answers instead of pre-defined choices. An example of an open ended question, "What is Collection in Java?" and participants can send in any short answer they want. Their answers might be just one word, a short phrase, or an entire sentence. Example, A collection is a group of objects, it is similar to String Template Library (STL) of C++ programming language.
+#### 3. What is the difference between the different types of polls?
+   Yes/No question is a question whose expected answer is either "yes" or "no". An example of a Yes/No question, Is java an object oriented language?" with options Yes or No.
+   Select options or A multiple choice question lets you define a set of choices that participants can choose from.  An example of a select options or multiple choice question, "Which is a valid keyword in java?" with options like "interface", "string", "FLoat", and "unsigned". 
+   An open ended question allows participants to send free-form text responses or short answers instead of pre-defined choices. An example of an open ended question, "What is Collection in Java?" and participants can send in any short answer they want. Their answers might be just one word, a short phrase, or an entire sentence. Example, A collection is a group of objects, it is similar to String Template Library (STL) of C++ programming language.
 
-4. What is an active poll?
-     Active poll is the poll that's on the big screen in front of everyone, being shown on their mobile devices.
+#### 4. What is an active poll?
+   Active poll is the poll that's on the big screen in front of everyone, being shown on their mobile devices.
 
-5. What is poll status of a poll? Can I activate more than one poll at a time?
-    State of polls at a particular time. It can be Editing, Ready. Once the polling is done, you can archive(backup) your poll details. Most presenters want to focus on one poll question at a time with their participants. That's the default way we've set things up.
+#### 5. What is poll status of a poll? Can I activate more than one poll at a time?
+   State of polls at a particular time. It can be Editing, Ready. Once the polling is done, you can archive(backup) your poll details. Most presenters want to focus on one poll question at a time with their participants. That's the default way we've set things up.
  
-    Yes, If you want your participants to be able to answer lots of questions all at the same time, you can set that up. Only one poll can be the active poll at a time. It's our way of identifying which poll you're currently presenting. A poll will automatically become the active poll anytime you present it.
+   Yes, If you want your participants to be able to answer lots of questions all at the same time, you can set that up. Only one poll can be the active poll at a time. It's our way of identifying which poll you're currently presenting. A poll will automatically become the active poll anytime you present it.
 
-6. How fast do responses show up?
-    Most of the time a response will be displayed within 2-5 seconds. The delay depends on the participant's cellular carrier or internet bandwidth of the participants and Finally on to live polls wherever they are being viewed. Poll Everywhere has handled very large events with thousands of responses. Web and smartphone responses are instant.
+#### 6. How fast do responses show up?
+   Most of the time a response will be displayed within 2-5 seconds. The delay depends on the participant's cellular carrier or internet bandwidth of the participants and Finally on to live polls wherever they are being viewed. Poll Everywhere has handled very large events with thousands of responses. Web and smartphone responses are instant.
 
-7. How will my audience know how to respond?
-
-
+#### 7. How will my audience know how to respond?
 
 <a name="More"/>
-#### More..
+### More..
